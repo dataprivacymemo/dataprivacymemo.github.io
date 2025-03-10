@@ -5,6 +5,7 @@ title = "Privacy Tool Spotlight: EFF's Cover Your Tracks"
 summary = "This free tool from the Electronic Frontier Foundation reveals your digital fingerprint, showing exactly how trackable you are online and empowering you with practical strategies to protect your privacy."
 categories = ["Privacy Tools"]
 tags = ["privacy tools", "digital privacy", "online tracking", "internet security"]
+comments = false
 +++
 
 Privacy isn't just about complex regulations-—it's about practical tools that give individuals real control. Recently I discovered [Cover Your Tracks](https://coveryourtracks.eff.org), a free tool from the Electronic Frontier Foundation that does something surprisingly simple yet powerful: it shows you exactly how trackable you are online.

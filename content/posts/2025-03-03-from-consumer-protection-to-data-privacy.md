@@ -5,7 +5,7 @@ title = "From Consumer Finance to Data Privacy"
 summary = "My seventeen-year journey from untangling predatory lending to exploring data privacy law revealed that data isn't just numbers, but the story of people's lives, their struggles, and their vulnerabilities."
 categories = ["Personal Journey"]
 tags = ["career", "privacy law", "legal transition"]
-comments = true
+comments = false
 +++
 
 When I started working as a fresh law school grad during the 2008 financial crisis in New York City, I didn't know I was laying the groundwork for a journey into data privacy. My early work was about untangling complex financial concepts--helping homeowners navigate predatory lending, understanding the intricate world of mortgage securitization, and breaking down seemingly impenetrable financial structures into something people could actually understand.
