@@ -1,0 +1,15 @@
+/* Minimal Font Update */
+body, h1, h2, h3, h4, h5, h6, 
+.content, .post-content, 
+input, button, select, textarea {
+    font-family: 'Space Mono', monospace !important;
+}
+
+/* Optional: Maintain existing line heights and sizes */
+body {
+    line-height: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: inherit;
+}

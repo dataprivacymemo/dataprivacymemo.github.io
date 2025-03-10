@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <!-- Background -->
+    <rect width="64" height="64" fill="#000000"/>
+    
+    <!-- Digital Lock Symbol -->
+    <path d="M32 20 C27.6 20 24 23.6 24 28V36H40V28C40 23.6 36.4 20 32 20Z" 
+          fill="#39FF14" stroke="#39FF14" stroke-width="2"/>
+    
+    <!-- Padlock Body -->
+    <rect x="22" y="36" width="20" height="12" 
+          fill="transparent" stroke="#39FF14" stroke-width="2"/>
+    
+    <!-- Digital Glitch Lines -->
+    <line x1="22" y1="40" x2="42" y2="40" stroke="#A0F0F0" stroke-width="2" 
+          stroke-dasharray="4 2"/>
+    <line x1="22" y1="44" x2="42" y2="44" stroke="#57FEFF" stroke-width="2" 
+          stroke-dasharray="2 4"/>
+</svg>
