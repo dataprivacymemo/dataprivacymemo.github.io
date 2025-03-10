@@ -4,8 +4,6 @@ description = "Privacy Policy for Data Privacy Memo"
 draft = false
 +++
 
-# Privacy Policy
-
 **Last Updated: March 10, 2025**
 
 ## Introduction
