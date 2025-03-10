@@ -1,4 +1,4 @@
-baseURL = "https://dataprivacymemo.com/"
+baseURL = "https://dataprivacymemo.com"
 languageCode = "en-us"
 title = "Data Privacy Memo"
 theme = "PaperMod"
@@ -12,8 +12,19 @@ theme = "PaperMod"
     numberOfTagsToShow = 10
     numberOfCategoriesToShow = 5
     copyright = "© 2025 David Friedman - Data Privacy Memo"
-    comments = true
-    commentForm = true
+    
+    # Added settings for descriptions/excerpts
+    showFullTextInMainFeed = false
+    summaryLength = 0  # Setting to 0 disables automatic summaries
+    
+    # PaperMod specific settings for descriptions
+    hideDescriptionInList = false
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    UseHugoToc = true
 
 [taxonomies]
     category = "categories"

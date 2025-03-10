@@ -2,6 +2,7 @@
 date = 2025-03-09T10:00:00+01:00
 draft = false
 title = "Privacy Tool Spotlight: EFF's Cover Your Tracks"
+summary = "This free tool from the Electronic Frontier Foundation reveals your digital fingerprint, showing exactly how trackable you are online and empowering you with practical strategies to protect your privacy."
 categories = ["Privacy Tools"]
 tags = ["privacy tools", "digital privacy", "online tracking", "internet security"]
 +++

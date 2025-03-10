@@ -1,0 +1,64 @@
+# Hugo default output directory
+/public/
+/resources/
+
+# Generated files by hugo
+*.html
+*.json
+*.xml
+
+# Executable may be added to repository
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Temporary lock file while building
+.hugo_build.lock
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Local development environment files
+.env
+*.local

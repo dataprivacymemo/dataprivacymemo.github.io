@@ -2,6 +2,7 @@
 date = 2025-03-03T14:39:52+01:00
 draft = false
 title = "From Consumer Finance to Data Privacy"
+summary = "My seventeen-year journey from untangling predatory lending to exploring data privacy law revealed that data isn't just numbers, but the story of people's lives, their struggles, and their vulnerabilities."
 categories = ["Personal Journey"]
 tags = ["career", "privacy law", "legal transition"]
 comments = true
