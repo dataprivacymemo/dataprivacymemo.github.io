@@ -1,0 +1,38 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&family=Inter:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anonymous Pro', monospace !important;
+    font-weight: 700 !important;
+}
+
+/* Site title and navigation specific styling */
+.logo a, .nav {
+    font-family: 'Anonymous Pro', monospace !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.5px;
+}
+
+.nav a {
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+/* Ensure code elements use monospace */
+code, pre, kbd, samp {
+    font-family: 'Anonymous Pro', monospace !important;
+}
+
+/* Site title color in light and dark modes */
+.logo a {
+    color: #0BDA51 !important; /* Emerald Green */
+}
+
+/* Dark mode variant */
+.dark .logo a {
+    color: #39FF14 !important;
+}
