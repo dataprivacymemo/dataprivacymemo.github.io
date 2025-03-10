@@ -20,7 +20,7 @@ theme = "PaperMod"
     # PaperMod specific settings for descriptions
     hideDescriptionInList = false
     ShowReadingTime = true
-    ShowShareButtons = true
+    ShowShareButtons = false
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
