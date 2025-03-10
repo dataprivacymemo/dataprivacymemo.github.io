@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Privacy Tools on Data Privacy Memo</title><link>https://dataprivacymemo.com/categories/privacy-tools/</link><description>Recent content in Privacy Tools on Data Privacy Memo</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 10:00:00 +0100</lastBuildDate><atom:link href="https://dataprivacymemo.com/categories/privacy-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Tool Spotlight: EFF's Cover Your Tracks</title><link>https://dataprivacymemo.com/posts/2025-03-09-privacy-tool-spotlight-cover/</link><pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate><guid>https://dataprivacymemo.com/posts/2025-03-09-privacy-tool-spotlight-cover/</guid><description>This free tool from the Electronic Frontier Foundation reveals your digital fingerprint, showing exactly how trackable you are online and empowering you with practical strategies to protect your privacy.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Privacy Tools on Data Privacy Memo</title>
+    <link>http://localhost:1313/categories/privacy-tools/</link>
+    <description>Recent content in Privacy Tools on Data Privacy Memo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Mar 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/privacy-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Tool Spotlight: EFF&#39;s Cover Your Tracks</title>
+      <link>http://localhost:1313/posts/2025-03-09-privacy-tool-spotlight-cover/</link>
+      <pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025-03-09-privacy-tool-spotlight-cover/</guid>
+      <description>This free tool from the Electronic Frontier Foundation reveals your digital fingerprint, showing exactly how trackable you are online and empowering you with practical strategies to protect your privacy.</description>
+    </item>
+  </channel>
+</rss>

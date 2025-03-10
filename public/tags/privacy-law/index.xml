@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Privacy Law on Data Privacy Memo</title><link>https://dataprivacymemo.com/tags/privacy-law/</link><description>Recent content in Privacy Law on Data Privacy Memo</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 14:39:52 +0100</lastBuildDate><atom:link href="https://dataprivacymemo.com/tags/privacy-law/index.xml" rel="self" type="application/rss+xml"/><item><title>From Consumer Finance to Data Privacy</title><link>https://dataprivacymemo.com/posts/2025-03-03-from-consumer-protection-to-data-privacy/</link><pubDate>Mon, 03 Mar 2025 14:39:52 +0100</pubDate><guid>https://dataprivacymemo.com/posts/2025-03-03-from-consumer-protection-to-data-privacy/</guid><description>My seventeen-year journey from untangling predatory lending to exploring data privacy law revealed that data isn&amp;rsquo;t just numbers, but the story of people&amp;rsquo;s lives, their struggles, and their vulnerabilities.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Privacy Law on Data Privacy Memo</title>
+    <link>http://localhost:1313/tags/privacy-law/</link>
+    <description>Recent content in Privacy Law on Data Privacy Memo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Mar 2025 14:39:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/privacy-law/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Consumer Finance to Data Privacy</title>
+      <link>http://localhost:1313/posts/2025-03-03-from-consumer-protection-to-data-privacy/</link>
+      <pubDate>Mon, 03 Mar 2025 14:39:52 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025-03-03-from-consumer-protection-to-data-privacy/</guid>
+      <description>My seventeen-year journey from untangling predatory lending to exploring data privacy law revealed that data isn&amp;rsquo;t just numbers, but the story of people&amp;rsquo;s lives, their struggles, and their vulnerabilities.</description>
+    </item>
+  </channel>
+</rss>
