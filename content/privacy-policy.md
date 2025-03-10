@@ -2,6 +2,12 @@
 title = "Privacy Policy"
 description = "Privacy Policy for Data Privacy Memo"
 draft = false
+layout = "page"
+url = "/privacy-policy/"
+summary = "Privacy policy and data collection practices for Data Privacy Memo"
+ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = false
 +++
 
 **Last Updated: March 10, 2025**
