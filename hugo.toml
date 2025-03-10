@@ -1,4 +1,4 @@
-baseURL = "https://dataprivacymemo.com"
+baseURL = "https://dataprivacymemo.com/"
 languageCode = "en-us"
 title = "Data Privacy Memo"
 theme = "PaperMod"
@@ -12,8 +12,6 @@ theme = "PaperMod"
     numberOfTagsToShow = 10
     numberOfCategoriesToShow = 5
     copyright = "© 2025 David Friedman - Data Privacy Memo"
-    
-    # New comments configuration
     comments = true
     commentForm = true
 
