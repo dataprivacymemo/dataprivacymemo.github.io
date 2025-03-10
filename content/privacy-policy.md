@@ -1,6 +1,5 @@
 +++
 title = "Privacy Policy"
-description = "Privacy Policy for Data Privacy Memo"
 draft = false
 layout = "page"
 url = "/privacy-policy/"
