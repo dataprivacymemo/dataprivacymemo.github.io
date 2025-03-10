@@ -41,7 +41,7 @@ theme = "PaperMod"
     identifier = "rss"
     name = "RSS Feed"
     url = "/index.xml"
-    weight = 40
+    weight = 20
 
 # RSS Configuration
 rssLimit = 10
