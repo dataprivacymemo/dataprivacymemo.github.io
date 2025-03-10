@@ -48,6 +48,12 @@ theme = "PaperMod"
     url = "/index.xml"
     weight = 20
 
+    [[menu.main]]
+    identifier = "privacy-policy"
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 50  # Place it at the end of the menu
+
 # RSS Configuration
 rssLimit = 10
 [outputs]
