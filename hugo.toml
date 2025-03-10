@@ -25,6 +25,11 @@ theme = "PaperMod"
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
     UseHugoToc = true
+    
+    # Social Icons
+    [[params.socialIcons]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/dataprivacymemo.bsky.social"
 
 [taxonomies]
     category = "categories"
