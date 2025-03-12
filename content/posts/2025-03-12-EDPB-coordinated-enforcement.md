@@ -1,5 +1,5 @@
 +++
-date = 2025-03-12T15:30:00+01:00
+date = 2025-03-12T09:05:00+01:00
 draft = false
 title = "GDPR's Right to Erasure: What Companies Need to Know About the 2025 Coordinated Enforcement Action"
 summary = "The EDPB's upcoming coordinated enforcement reveals critical challenges in implementing the right to be forgotten"

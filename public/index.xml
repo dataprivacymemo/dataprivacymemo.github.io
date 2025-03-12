@@ -6,15 +6,22 @@
     <description>Recent content on Data Privacy Memo</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Mar 2025 14:39:40 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 09:05:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GDPR&#39;s Right to Erasure: What Companies Need to Know About the 2025 Coordinated Enforcement Action</title>
+      <link>http://localhost:1313/posts/2025-03-12-edpb-coordinated-enforcement/</link>
+      <pubDate>Wed, 12 Mar 2025 09:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025-03-12-edpb-coordinated-enforcement/</guid>
+      <description>The EDPB&amp;rsquo;s upcoming coordinated enforcement reveals critical challenges in implementing the right to be forgotten</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 09 Mar 2025 14:39:40 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m David Friedman, an attorney working in data privacy law. With a background in consumer protection/financial services, I&amp;rsquo;m currently developing new expertise in the world of privacy.&lt;/p&gt;
-&lt;p&gt;As part of this transition, I&amp;rsquo;m preparing for the CIPP/E (Certified Information Privacy Professional/Europe) certification to deepen my understanding of the GDPR and European data protection frameworks. This blog is where I share insights, learnings, and reflections from this process.&lt;/p&gt;
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m David Friedman, an attorney working in data privacy law. With a long background in consumer protection/financial services, I&amp;rsquo;m currently deepening my expertise in the world of privacy.&lt;/p&gt;
+&lt;p&gt;As part of this, I&amp;rsquo;m preparing for the Certified Information Privacy Professional (Europe) certification to deepen my understanding of the GDPR and European data protection frameworks. This blog is where I share insights, learnings, and reflections from this process.&lt;/p&gt;
 &lt;p&gt;I split my time between New York and Valencia, Spain, which gives me a unique cross-cultural perspective on privacy issues. My goal is to make complex privacy concepts approachable and to explore the practical implications for both businesses and consumers.&lt;/p&gt;</description>
     </item>
     <item>
@@ -45,7 +52,7 @@
       <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Last Updated: March 10, 2025&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;At Data Privacy Memo, I practice what I preach. This privacy policy explains the limited ways in which I collect, use, and protect any information that relates to you when you visit dataprivacymemo.com. As a privacy professional, I&amp;rsquo;ve designed this website with data minimization as a core principle.&lt;/p&gt;
+&lt;p&gt;At Data Privacy Memo, transparency is fundamental. This privacy policy explains the limited ways in which I collect, use, and protect any information that relates to you when you visit dataprivacymemo.com. As a privacy professional, I&amp;rsquo;ve designed this website with data minimization as a core principle.&lt;/p&gt;
 &lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;
 &lt;p&gt;Data Privacy Memo is operated by David Friedman, a data privacy lawyer operating between the U.S. and the E.U.. I can be contacted at &lt;a href=&#34;mailto:david@dataprivacymemo.com&#34;&gt;david@dataprivacymemo.com&lt;/a&gt; for any privacy-related inquiries.&lt;/p&gt;</description>
     </item>
