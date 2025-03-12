@@ -4,9 +4,9 @@ draft = false
 title = 'About Me'
 +++
 
-Hi, I'm David Friedman, an attorney working in data privacy law. With a background in consumer protection/financial services, I'm currently developing new expertise in the world of privacy. 
+Hi, I'm David Friedman, an attorney working in data privacy law. With a long background in consumer protection/financial services, I'm currently deepening my expertise in the world of privacy. 
 
-As part of this transition, I'm preparing for the CIPP/E (Certified Information Privacy Professional/Europe) certification to deepen my understanding of the GDPR and European data protection frameworks. This blog is where I share insights, learnings, and reflections from this process.
+As part of this, I'm preparing for the Certified Information Privacy Professional (Europe) certification to deepen my understanding of the GDPR and European data protection frameworks. This blog is where I share insights, learnings, and reflections from this process.
 
 I split my time between New York and Valencia, Spain, which gives me a unique cross-cultural perspective on privacy issues. My goal is to make complex privacy concepts approachable and to explore the practical implications for both businesses and consumers.
 

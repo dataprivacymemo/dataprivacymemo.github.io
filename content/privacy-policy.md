@@ -12,7 +12,7 @@ ShowPostNavLinks = false
 
 ## Introduction
 
-At Data Privacy Memo, I practice what I preach. This privacy policy explains the limited ways in which I collect, use, and protect any information that relates to you when you visit dataprivacymemo.com. As a privacy professional, I've designed this website with data minimization as a core principle.
+At Data Privacy Memo, transparency is fundamental. This privacy policy explains the limited ways in which I collect, use, and protect any information that relates to you when you visit dataprivacymemo.com. As a privacy professional, I've designed this website with data minimization as a core principle.
 
 ## Who I Am
 
@@ -26,31 +26,27 @@ I use GoatCounter, a privacy-friendly analytics service, to collect anonymous in
 
 - Does not use cookies
 - Does not collect or store personal data
-- Collects only non-identifying information such as:
+- Collects only non-identifying, aggregate information such as:
   - Pages viewed
   - Referring websites
   - Browser types
   - Approximate geographic location (country level)
   - Time of visit
 
-This information cannot reasonably be used to identify you as an individual. The legal basis for this processing is my legitimate interest in understanding how visitors interact with my website to improve its content and functionality.
+This information cannot reasonably be used to identify you as an individual. This ensures your digital footprint remains yours. The legal basis for this processing is my legitimate interest in understanding how visitors interact with my website to improve its content and functionality.
 
 ### Newsletter (Future)
 
-If you choose to subscribe to a newsletter in the future:
+If a newsletter is introduced:
 
 - I will collect only your email address
 - Your email address will be used solely for the purpose of sending you the newsletter
 - I will rely on your consent as the legal basis for this processing
-- You will be able to unsubscribe at any time
+- You will be able to easily unsubscribe at any time
 
 ## How I Use Your Information
 
-The anonymous analytics data collected is used only to:
-
-- Understand how visitors use the website
-- Analyze which content is most valuable
-- Improve the website's content and user experience
+Anonymous analytics data serves one purpose: improving the website's value and user experience. No hidden agendas, no data monetization.
 
 ## Data Sharing and Third Parties
 
@@ -64,7 +60,7 @@ I do not sell, rent, or otherwise share any information with third parties for m
 
 ## International Transfers
 
-As I operate between the United States and Spain, website data may be processed in either country. Any future email addresses collected for a newsletter would be stored securely with appropriate safeguards in place.
+As I operate between the United States and Spain, website data may be processed in either country. Any future data storage will include comprehensive safeguards aligned with both GDPR and emerging global privacy standards.
 
 ## Data Retention
 
@@ -97,7 +93,7 @@ I may update this privacy policy to reflect changes in my practices or for legal
 
 ## How to Contact Me
 
-If you have any questions about this privacy policy or my data practices, please contact me at david@dataprivacymemo.com.
+Questions? Concerns? Direct dialogue is welcome. Please contact me at david@dataprivacymemo.com.
 
 ---
 
