@@ -36,7 +36,3 @@ The case revealed the intricate data collection strategies employed by Musical.l
 ## Broader context
 
 This case highlighted the digital ecosystem's predatory nature, where social media platforms prioritize engagement and data collection over user protection. Musical.ly's practices exposed how easily children can be transformed from users into monetizable data points, with their personal information tracked, analyzed, and potentially exploited.
-
-## Precedent and impact
-
-The settlement set a crucial standard for protecting children's online privacy. It forced social media companies to reconsider their default design choices and created increased scrutiny for platforms targeting young audiences. More importantly, it brought to light the systematic monetization of children's digital interactions.
