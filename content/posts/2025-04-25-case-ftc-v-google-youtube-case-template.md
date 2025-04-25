@@ -1,5 +1,5 @@
 +++
-date = 2024-04-25
+date = 2025-04-25
 draft = false
 title = "FTC v. Google LLC & YouTube: The $170 Million Children's Privacy Reckoning"
 summary = "How YouTube's systematic collection of children's data exposed the dark underbelly of targeted advertising"
@@ -30,8 +30,8 @@ On September 4, 2019, the Federal Trade Commission delivered a landmark blow aga
 
 ## Official Case Documents
 - **FTC Press Release**: [Official FTC Announcement](https://www.ftc.gov/news-events/news/press-releases/2019/09/google-youtube-will-pay-record-170-million-alleged-violations-childrens-privacy-law)
-- **Complaint**: [FTC Complaint Document](link-to-official-complaint)
-- **Settlement Agreement**: [Full Settlement Details](link-to-settlement)
+- **Complaint**: [FTC Complaint Document](https://www.ftc.gov/system/files/documents/cases/youtube_complaint.pdf)
+- **Settlement Agreement**: [Full Settlement Details](https://www.ftc.gov/system/files/documents/cases/172_3083_youtube_coppa_consent_order.pdf)
 
 ## Financial Implications
 - **Total Penalty**: $170 million
@@ -59,28 +59,3 @@ On September 4, 2019, the Federal Trade Commission delivered a landmark blow aga
 - Established aggressive enforcement standard for children's online privacy
 - Signaled FTC's willingness to levy substantial penalties
 - Created chilling effect for platforms targeting young users
-
-## Industry Reaction
-- Widespread platform modifications
-- Increased internal compliance teams
-- Development of more robust age verification technologies
-
-## What This Means for Users
-- Enhanced parental control mechanisms
-- More transparent data collection notices
-- Potential limitations on child-targeted content
-
-## Closing Thoughts
-
-Privacy isn't a feature—it's a fundamental right, especially for those least able to defend themselves.
-
-**Remember**: Your child's digital footprint is not a commodity to be traded.
-
----
-
-*Recommended Related Reading*:
-- [COPPA Overview](/coppa-overview)
-- [Other Significant COPPA Enforcement Actions](/coppa-enforcement-cases)
-
-*About the Analysis*
-A deep dive into the legal and technological implications of children's digital privacy, committed to exposing how technology can serve humanity, not exploit it.
