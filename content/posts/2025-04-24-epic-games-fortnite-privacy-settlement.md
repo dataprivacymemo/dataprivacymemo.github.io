@@ -1,5 +1,5 @@
 +++
-date = 2025-04-25
+date = 2025-04-24
 draft = false
 title = "Epic Games Fortnite Settlement: A $520 Million Reckoning in Digital Privacy and Consent"
 summary = "How Fortnite's design manipulated young players and violated privacy rights, resulting in one of the largest FTC settlements in tech history"
