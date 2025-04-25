@@ -1,5 +1,5 @@
 +++
-date = '2025-04-25T12:00:00-04:00'
+date = '2025-04-24T12:00:00-04:00'
 draft = false
 title = 'About Data Privacy Memo'
 +++
