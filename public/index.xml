@@ -27,15 +27,6 @@
       <description>The EDPB&amp;rsquo;s upcoming coordinated enforcement reveals critical challenges in implementing the right to be forgotten</description>
     </item>
     <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 09 Mar 2025 14:39:40 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m David Friedman, an attorney working in data privacy law. With a long background in consumer protection/financial services, I&amp;rsquo;m currently deepening my expertise in the world of privacy.&lt;/p&gt;
-&lt;p&gt;As part of this, I&amp;rsquo;m preparing for the Certified Information Privacy Professional (Europe) certification to deepen my understanding of the GDPR and European data protection frameworks. This blog is where I share insights, learnings, and reflections from this process.&lt;/p&gt;
-&lt;p&gt;I split my time between New York and Valencia, Spain, which gives me a unique cross-cultural perspective on privacy issues. My goal is to make complex privacy concepts approachable and to explore the practical implications for both businesses and consumers.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Privacy Tool Spotlight: EFF&#39;s Cover Your Tracks</title>
       <link>http://localhost:1313/posts/2025-03-09-privacy-tool-spotlight-cover/</link>
       <pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate>
@@ -55,6 +46,20 @@
       <pubDate>Mon, 03 Mar 2025 14:39:52 +0100</pubDate>
       <guid>http://localhost:1313/posts/2025-03-03-from-consumer-protection-to-data-privacy/</guid>
       <description>My seventeen-year journey from untangling predatory lending to exploring data privacy law revealed that data isn&amp;rsquo;t just numbers, but the story of people&amp;rsquo;s lives, their struggles, and their vulnerabilities.</description>
+    </item>
+    <item>
+      <title>COPPA: A Comprehensive Guide to the Children&#39;s Online Privacy Protection Act</title>
+      <link>http://localhost:1313/posts/2025-04-25-coppa-overview/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-04-25-coppa-overview/</guid>
+      <description>Definitive resource for legal practitioners, researchers, and privacy professionals covering the Children&amp;rsquo;s Online Privacy Protection Act</description>
+    </item>
+    <item>
+      <title>FTC v. Google LLC &amp; YouTube: The $170 Million Children&#39;s Privacy Reckoning</title>
+      <link>http://localhost:1313/posts/2025-04-25-case-ftc-v-google-youtube-case-template/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-04-25-case-ftc-v-google-youtube-case-template/</guid>
+      <description>How YouTube&amp;rsquo;s systematic collection of children&amp;rsquo;s data exposed the dark underbelly of targeted advertising</description>
     </item>
     <item>
       <title>Privacy Policy</title>
