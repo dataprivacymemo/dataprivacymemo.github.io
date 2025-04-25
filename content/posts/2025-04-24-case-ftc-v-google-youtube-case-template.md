@@ -36,9 +36,3 @@ YouTube's algorithm systematically harvested identifiers from children's videos,
 ## Broader impact
 
 The settlement forced an industry-wide re-evaluation of data collection practices. Content creators faced mandatory age verification mechanisms, while tech platforms were compelled to increase transparency in their data usage and advertising strategies.
-
-## Precedent and impact
-
-This case established a critical precedent for children's online privacy, signaling the FTC's willingness to take decisive action against platforms that prioritize data collection over user protection.
-
-The YouTube settlement exposed the complex mechanisms of digital surveillance, serving as a stark reminder that platforms must prioritize user privacy, especially when children are involved.

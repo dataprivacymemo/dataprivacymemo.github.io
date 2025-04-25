@@ -21,9 +21,9 @@ The Federal Trade Commission's landmark settlement with Musical.ly (now TikTok) 
 Musical.ly disregarded children's privacy protections under the Children's Online Privacy Protection Act (COPPA). The platform collected personal information from children under 13 without parental consent, created public profiles by default, and enabled direct messaging and location tracking for underage users. The app's design deliberately blurred the lines between playful content creation and invasive data harvesting.
 
 ## Official case documents
-- **FTC Press Release**: [Official FTC Announcement](https://www.ftc.gov/news-events/news/press-releases/2019/02/ftc-staff-recommends-settlement-musical-ly)
-- **Complaint**: [Detailed Complaint Document](https://www.ftc.gov/system/files/documents/cases/musical.ly_complaint.pdf)
-- **Settlement agreement**: [Full Settlement Details](https://www.ftc.gov/system/files/documents/cases/musical.ly_consent_order.pdf)
+- **FTC Press Release**: [Official FTC Announcement](https://www.ftc.gov/news-events/news/press-releases/2019/02/video-social-networking-app-musically-agrees-settle-ftc-allegations-it-violated-childrens-privacy)
+- **Complaint**: [Detailed Complaint Document](https://www.ftc.gov/system/files/documents/cases/musical.ly_complaint_ecf_2-27-19.pdf)
+- **Settlement agreement**: [Full Settlement Details](https://www.ftc.gov/system/files/documents/cases/musical.ly_proposed_order_ecf_2-27-19.pdf)
 
 ## Financial and legal implications
 

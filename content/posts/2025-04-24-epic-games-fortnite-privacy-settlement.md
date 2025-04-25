@@ -21,13 +21,13 @@ On December 14, 2020, Epic Games faced a devastating $520 million settlement wit
 The settlement revealed a calculated approach to user manipulation. Epic Games deployed sophisticated "dark pattern" design techniques that tricked users into unwanted purchases, collected and stored children's voice and text communications without proper consent, and created frictionless payment systems that exploited young players' impulse control.
 
 ## Official case documents
-- **FTC press release**: [Official FTC Announcement](https://www.ftc.gov/news-events/news/press-releases/2020/12/epic-games-pays-most-comprehensive-settlement-ftc-history)
-- **Complaint**: [Detailed Complaint Document](https://www.ftc.gov/system/files/documents/cases/epic_games_complaint.pdf)
-- **Settlement agreement**: [Full Settlement Details](https://www.ftc.gov/system/files/documents/cases/epic_games_consent_order.pdf)
+- **FTC press release**: [Official FTC Announcement](https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations)
+- **Complaint**: [Detailed Complaint](https://www.ftc.gov/system/files/ftc_gov/pdf/2223087EpicGamesComplaint.pdf)
+- **Settlement agreement**: [Full Settlement Details](https://www.ftc.gov/system/files/ftc_gov/pdf/1923203EpicGamesACCO.pdf)
 
 ## Financial and legal implications
 
-The unprecedented $520 million settlement broke down into $275 million in consumer protection penalties and $245 million in planned consumer refunds. It represented the largest FTC settlement for a gaming company to date, signaling a watershed moment in digital consumer protection.
+The $520 million settlement broke down into $275 million in consumer protection penalties and $245 million in planned consumer refunds. It represented the largest FTC settlement for a gaming company to date, signaling a watershed moment in digital consumer protection.
 
 ## Platform mechanics
 
@@ -36,7 +36,3 @@ Fortnite's design was revealed as more than just a game—it was a carefully con
 ## Broader impact
 
 The settlement forced gaming platforms to fundamentally reconsider their design philosophies. Mandatory explicit consent protocols, enhanced parental controls, and transparent accounting of microtransaction systems became new industry standards. It demonstrated the FTC's commitment to protecting young digital consumers from predatory design practices.
-
-## Precedent and impact
-
-Epic Games' settlement stands as a critical moment in the ongoing battle against technological exploitation. It revealed how gaming platforms can leverage design psychology to maximize user engagement and monetization, particularly among younger audiences.
