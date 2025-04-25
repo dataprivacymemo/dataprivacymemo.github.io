@@ -23,6 +23,14 @@ jobs:
           hugo-version: 'latest'
           extended: true  # If using SCSS/SASS
 
+      - name: Debug Submodules and Theme
+        run: |
+          git submodule status
+          ls -la themes
+          pwd
+          echo "Hugo version:"
+          hugo version
+
       - name: Build
         run: hugo --minify
 
