@@ -61,9 +61,9 @@ COPPA comprehensively defines personal information to include:
   * Public disclosure of violations
 
 ## Landmark enforcement cases
-- Google YouTube COPPA Settlement (2019)[https://dataprivacymemo.com/posts/2025-04-25-case-ftc-v-google-youtube-case-template/]
-- Epic Games (Fortnite) Settlement (2020) [https://dataprivacymemo.com/posts/2025-04-25-epic-games-fortnite-privacy-settlement/]
-- Musical.ly (TikTok) FTC Settlement (2019)
+- Google YouTube COPPA Settlement (2019)[https://dataprivacymemo.com/posts/2025-04-24-case-ftc-v-google-youtube-case-template/]
+- Epic Games (Fortnite) Settlement (2020) [https://dataprivacymemo.com/posts/2025-04-24-epic-games-fortnite-privacy-settlement/]
+- Musical.ly (TikTok) FTC Settlement (2019)[https://dataprivacymemo.com/posts/2025-04-24-musical-ly-tiktok-ftc-settlement/]
 - Path Social Network Case (2013)
 - VTech Electronics Settlement (2018)
 
