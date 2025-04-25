@@ -1,20 +1,43 @@
 +++
-date = '2025-03-09T14:39:40+01:00'
+date = '2025-04-25T12:00:00-04:00'
 draft = false
-title = 'About Me'
+title = 'About Data Privacy Memo'
 +++
 
-Hi, I'm David Friedman, an attorney working in data privacy law. With a long background in consumer protection/financial services, I'm currently deepening my expertise in the world of privacy. 
+## Tracking the Evolution of Digital Privacy Law in the United States
 
-As part of this, I'm preparing for the Certified Information Privacy Professional (Europe) certification to deepen my understanding of the GDPR and European data protection frameworks. This blog is where I share insights, learnings, and reflections from this process.
+Welcome to Data Privacy Memo, your comprehensive resource for tracking the rapidly evolving landscape of digital privacy law across the United States. As privacy regulations continue to transform, we provide in-depth analysis, case law digests, and critical insights into the complex world of data protection.
 
-I split my time between New York and Valencia, Spain, which gives me a unique cross-cultural perspective on privacy issues. My goal is to make complex privacy concepts approachable and to explore the practical implications for both businesses and consumers.
+### Our Mission
+
+Data Privacy Memo is dedicated to:
+- Providing weekly updates on significant digital privacy law cases
+- Tracking legislative developments at state and federal levels
+- Offering scholarly analysis of emerging legal principles
+- Bridging academic research with practical legal insights
+
+### Expertise and Focus
+
+With a deep commitment to understanding the intricate world of digital privacy, we specialize in:
+- California Consumer Privacy Act (CCPA)
+- Virginia Consumer Data Protection Act (VCDPA)
+- Colorado Privacy Act (CPA)
+- Connecticut Data Privacy Act
+- Emerging state-level data protection statutes
+
+Our content serves legal practitioners, privacy professionals, scholars, and anyone interested in understanding the critical intersection of technology, law, and individual rights.
+
+## About the Author
+
+I'm David Friedman, an attorney with a specialized focus on data privacy law and consumer protection. My work centers on demystifying the complex legal landscape surrounding digital privacy, with a particular emphasis on U.S. state-level regulations and their broader implications.
 
 ## Let's Connect
 
-I'm always eager to connect with fellow privacy enthusiasts, professionals, and anyone interested in learning more about data protection. Feel free to reach out:
+I'm always eager to engage with privacy professionals, legal experts, and individuals passionate about digital rights:
 
 - Email: david@dataprivacymemo.com
 - Bluesky: [@dataprivacymemo](https://bsky.app/profile/dataprivacymemo.bsky.social)
 
-Whether you have a question, a topic suggestion, or just want to say hey, I look forward to hearing from you!
+Whether you have insights to share, a case to discuss, or simply want to explore the evolving world of digital privacy law, I look forward to hearing from you.
+
+**Privacy is a right, not a privilege.**

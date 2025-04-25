@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Data Privacy Memo</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Mar 2025 09:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 10:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Transfers</title>
+      <link>http://localhost:1313/tags/data-transfers/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/data-transfers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EU-US Privacy</title>
+      <link>http://localhost:1313/tags/eu-us-privacy/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/eu-us-privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FTC</title>
+      <link>http://localhost:1313/tags/ftc/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ftc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GDPR</title>
+      <link>http://localhost:1313/tags/gdpr/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/gdpr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regulatory Changes</title>
+      <link>http://localhost:1313/tags/regulatory-changes/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/regulatory-changes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Compliance</title>
       <link>http://localhost:1313/tags/compliance/</link>
@@ -30,13 +65,6 @@
       <description></description>
     </item>
     <item>
-      <title>GDPR</title>
-      <link>http://localhost:1313/tags/gdpr/</link>
-      <pubDate>Wed, 12 Mar 2025 09:05:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gdpr/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Right to Erasure</title>
       <link>http://localhost:1313/tags/right-to-erasure/</link>
       <pubDate>Wed, 12 Mar 2025 09:05:00 +0100</pubDate>
@@ -48,34 +76,6 @@
       <link>http://localhost:1313/tags/digital-privacy/</link>
       <pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate>
       <guid>http://localhost:1313/tags/digital-privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Internet Security</title>
-      <link>http://localhost:1313/tags/internet-security/</link>
-      <pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/internet-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Online Tracking</title>
-      <link>http://localhost:1313/tags/online-tracking/</link>
-      <pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/online-tracking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy Tools</title>
-      <link>http://localhost:1313/tags/privacy-tools/</link>
-      <pubDate>Sun, 09 Mar 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/privacy-tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consumer Protection</title>
-      <link>http://localhost:1313/tags/consumer-protection/</link>
-      <pubDate>Wed, 05 Mar 2025 14:39:52 +0100</pubDate>
-      <guid>http://localhost:1313/tags/consumer-protection/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,8 @@
+/* Custom font size adjustments */
+body {
+    font-size: 1.1rem; /* Increases base font size by about one point */
+}
+
+.post-content {
+    font-size: 1.1rem; /* Ensures post content matches the increased size */
+}
