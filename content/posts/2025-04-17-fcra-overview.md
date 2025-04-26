@@ -76,9 +76,9 @@ FCRA covers various types of consumer reporting information:
   * Public disclosure of violations
 
 ## Landmark Enforcement Cases
-- TransUnion LLC v. Ramirez (2021)(http://www.dataprivacymemo.com/posts/2025-04-24-transunion-ramirez-case/)
-- FTC v. Equifax (2019)(http://www.dataprivacymemo.com/posts/2025-04-21-equifax-ftc-settlement/)
-- Frank v. Capital One Financial Corporation (2016)(http://www.dataprivacymemo.com/posts/2025-04-23-frank-capital-one-case/)
+- [TransUnion LLC v. Ramirez (2021)](http://www.dataprivacymemo.com/posts/2025-04-24-transunion-ramirez-case/)
+- [FTC v. Equifax (2019)](http://www.dataprivacymemo.com/posts/2025-04-21-equifax-ftc-settlement/)
+- [Frank v. Capital One Financial Corporation (2016)](http://www.dataprivacymemo.com/posts/2025-04-23-frank-capital-one-case/)
 
 ### Recent Notable Cases
 - [List of recent significant FCRA enforcement cases to be added]

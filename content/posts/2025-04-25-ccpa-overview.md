@@ -77,9 +77,9 @@ CCPA covers various types of personal information:
   * Mandatory compliance measures
 
 ## Landmark Enforcement Cases
-- California v. Sephora (2022)(http://www.dataprivacymemo.com/posts/2025-04-26-sephora-ccpa/)
-- California v. Blackbaud (2024)(http://www.dataprivacymemo.com/posts/2025-04-26-blackbaud-ccpa/)
-- California v. Doordash (2024)(http://www.dataprivacymemo.com/posts/2025-04-26-doordash-ccpa/)
+- [California v. Sephora (2022)](http://www.dataprivacymemo.com/posts/2025-04-26-sephora-ccpa/)
+- [California v. Blackbaud (2024)](http://www.dataprivacymemo.com/posts/2025-04-26-blackbaud-ccpa/)
+- [California v. Doordash (2024)](http://www.dataprivacymemo.com/posts/2025-04-26-doordash-ccpa/)
 
 
 ### Recent Notable Cases
