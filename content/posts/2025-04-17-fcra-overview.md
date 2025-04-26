@@ -1,5 +1,5 @@
 +++
-date = 2024-04-17
+date = 2025-04-17
 draft = false
 title = "Fair Credit Reporting Act (FCRA): Comprehensive Guide to Consumer Credit Protection"
 summary = "Definitive resource for legal practitioners, researchers, and privacy professionals covering the Fair Credit Reporting Act"
