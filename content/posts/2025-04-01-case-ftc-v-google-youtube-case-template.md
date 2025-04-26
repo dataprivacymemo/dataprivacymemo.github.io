@@ -1,5 +1,5 @@
 +++
-date = 2025-04-25
+date = 2025-04-01
 draft = false
 title = "FTC v. Google LLC & YouTube: $170 million to protect children's privacy"
 summary = "How YouTube's systematic collection of children's data exposed the dangers of targeted advertising"

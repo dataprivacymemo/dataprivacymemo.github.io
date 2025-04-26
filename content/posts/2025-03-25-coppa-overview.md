@@ -1,5 +1,5 @@
 +++
-date = 2025-04-23
+date = 2025-03-25
 draft = false
 title = "COPPA: A Comprehensive Guide to the Children's Online Privacy Protection Act"
 summary = "Definitive resource for legal practitioners, researchers, and privacy professionals covering the Children's Online Privacy Protection Act"
@@ -61,6 +61,6 @@ COPPA comprehensively defines personal information to include:
   * Public disclosure of violations
 
 ## Landmark enforcement cases
-- Google YouTube COPPA Settlement (2019)(https://dataprivacymemo.com/posts/2025-04-24-case-ftc-v-google-youtube-case-template/)
-- Epic Games (Fortnite) Settlement (2020)(https://dataprivacymemo.com/posts/2025-04-24-epic-games-fortnite-privacy-settlement/)
-- Musical.ly (TikTok) FTC Settlement (2019)(https://dataprivacymemo.com/posts/2025-04-24-musical-ly-tiktok-ftc-settlement/)
+- Google YouTube COPPA Settlement (2019)(https://dataprivacymemo.com/posts/2025-04-01-case-ftc-v-google-youtube-case-template/)
+- Epic Games (Fortnite) Settlement (2020)(https://dataprivacymemo.com/posts/2025-04-08-epic-games-fortnite-privacy-settlement/)
+- Musical.ly (TikTok) FTC Settlement (2019)(https://dataprivacymemo.com/posts/2025-04-15-musical-ly-tiktok-ftc-settlement/)

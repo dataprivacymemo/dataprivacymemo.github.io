@@ -1,5 +1,5 @@
 +++
-date = 2025-04-25
+date = 2025-04-15
 draft = false
 title = "Musical.ly/TikTok's $5.7 Million Child Privacy Violation"
 summary = "How a popular social media app was accused of systematically collecting and exploiting children's personal data, as well as violating fundamental privacy rights"
